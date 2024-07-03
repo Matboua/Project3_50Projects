@@ -6,7 +6,7 @@ This is my third project from the #50projects50days challenge. In this project, 
 
 ### Demo
 
-![Project Demo](https://matboua.github.io/Project3_50Projects/challenge3/)
+ctrl+click To open in a new Tap: [Project Demo](https://matboua.github.io/Project3_50Projects/challenge3/)
 
 ### Video
 
